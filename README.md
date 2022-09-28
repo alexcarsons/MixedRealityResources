@@ -108,6 +108,7 @@ Collection of Mixed Reality related resources, inspirations. Please ask on [Lear
 - [Dimensiva](https://dimensiva.com/)
 - [3Delicious](https://3delicious.net/)
 - [Bitgem 3D](https://shop.bitgem3d.com/collections/on-sale)
+- [Meshplorer](https://www.meshplorer.com/)
 - [Play Canvas curated assets](https://github.com/playcanvas/awesome-playcanvas)
 - [List of common 3D Test models](https://en.wikipedia.org/wiki/List_of_common_3D_test_models)
 
